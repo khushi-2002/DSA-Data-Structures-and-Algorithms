@@ -42,6 +42,13 @@ Packages:
 Input from the user:   
 Scanner class which provides the input functions, so we can use it by creating an object.
 
+Primitive Data types:- Which cannot be further down into other data types
+Example: String can be further down into characters thus it is not a primitive data types
+
+But integer is one of the primitive data types
+
+
+
 
 
 

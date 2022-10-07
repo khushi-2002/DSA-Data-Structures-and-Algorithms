@@ -47,6 +47,14 @@ Example: String can be further down into characters thus it is not a primitive d
 
 But integer is one of the primitive data types
 
+Others are:  
+* int
+* float
+* boolean
+* char
+* long
+* double
+
 
 
 

@@ -56,6 +56,20 @@ Others are:
 * double
 
 
+Typecasting: 
+* Implicit
+* Explicit
+
+Implicit: Automatically done by compiler, when we want to store small values in large data type
+Explicit: Explicitly done by type casting when small container wants to store large values
+
+Automatic type promotion in expressions:
+
+It automatic converts the type of the result into the variable type followed by the data type
+
+
+*Java follows unicode(same as language, it'll print) principles.*
+
 
 
 

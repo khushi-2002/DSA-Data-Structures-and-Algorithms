@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Launch Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Reverse",
+      "request": "launch",
+      "mainClass": "Reverse",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",

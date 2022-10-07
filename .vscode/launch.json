@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch SwitchCase",
+      "request": "launch",
+      "mainClass": "SwitchCase",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
       "name": "Launch Calculator",
       "request": "launch",
       "mainClass": "Calculator",

@@ -3,6 +3,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Armstrong",
+      "request": "launch",
+      "mainClass": "Armstrong",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch IsPrime",
+      "request": "launch",
+      "mainClass": "IsPrime",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Varargs",
+      "request": "launch",
+      "mainClass": "Varargs",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Shadowing",
+      "request": "launch",
+      "mainClass": "Shadowing",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Scope",
+      "request": "launch",
+      "mainClass": "Scope",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch ChangeValues",
+      "request": "launch",
+      "mainClass": "ChangeValues",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Swaping",
+      "request": "launch",
+      "mainClass": "Swaping",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Functions",
+      "request": "launch",
+      "mainClass": "Functions",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
       "name": "Launch SwitchCase",
       "request": "launch",
       "mainClass": "SwitchCase",

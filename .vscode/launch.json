@@ -3,6 +3,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Fibonacci",
+      "request": "launch",
+      "mainClass": "Fibonacci",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Conversion",
+      "request": "launch",
+      "mainClass": "Conversion",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch conditions",
+      "request": "launch",
+      "mainClass": "conditions",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Simple_Interest",
+      "request": "launch",
+      "mainClass": "Simple_Interest",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Greeting",
+      "request": "launch",
+      "mainClass": "Greeting",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Even",
+      "request": "launch",
+      "mainClass": "Even",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch EvenOdd",
+      "request": "launch",
+      "mainClass": "EvenOdd",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Even_Odd",
+      "request": "launch",
+      "mainClass": "Even_Odd",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
       "name": "Launch Sum_tillX",
       "request": "launch",
       "mainClass": "Sum_tillX",

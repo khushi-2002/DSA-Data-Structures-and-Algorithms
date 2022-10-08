@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Sum_tillX",
+      "request": "launch",
+      "mainClass": "Sum_tillX",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch HCF_LCM",
+      "request": "launch",
+      "mainClass": "HCF_LCM",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Multiplication",
+      "request": "launch",
+      "mainClass": "Multiplication",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Sum",
+      "request": "launch",
+      "mainClass": "Sum",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Leap",
+      "request": "launch",
+      "mainClass": "Leap",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
       "name": "Launch Armstrong",
       "request": "launch",
       "mainClass": "Armstrong",

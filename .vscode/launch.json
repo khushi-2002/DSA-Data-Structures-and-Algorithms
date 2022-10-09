@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Product_sum",
+      "request": "launch",
+      "mainClass": "Product_sum",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Equilateral",
+      "request": "launch",
+      "mainClass": "Equilateral",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Iscosceles",
+      "request": "launch",
+      "mainClass": "Iscosceles",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Triangle",
+      "request": "launch",
+      "mainClass": "Triangle",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch circle",
+      "request": "launch",
+      "mainClass": "circle",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
       "name": "Launch Fibonacci",
       "request": "launch",
       "mainClass": "Fibonacci",

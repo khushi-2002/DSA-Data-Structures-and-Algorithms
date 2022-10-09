@@ -10,6 +10,7 @@ public class Armstrong {
                 System.out.println(i);
             }
         }
+        sc.close();
 
     }
 

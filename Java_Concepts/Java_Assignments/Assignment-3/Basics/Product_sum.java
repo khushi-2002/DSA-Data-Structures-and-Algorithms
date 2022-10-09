@@ -6,10 +6,13 @@ public class Product_sum {
         int n = sc.nextInt();
         System.out.println(digits(n));
         sc.close();
-
+        
+        
+        
     }
     
-    
+
+
 
     static int digits(int n){
         int result=0;

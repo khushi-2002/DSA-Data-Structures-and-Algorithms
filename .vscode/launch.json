@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch LCM",
+      "request": "launch",
+      "mainClass": "LCM",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Power",
+      "request": "launch",
+      "mainClass": "Power",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Commission",
+      "request": "launch",
+      "mainClass": "Commission",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Electricity",
+      "request": "launch",
+      "mainClass": "Electricity",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Factorial",
+      "request": "launch",
+      "mainClass": "Factorial",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch While",
+      "request": "launch",
+      "mainClass": "While",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Factors",
+      "request": "launch",
+      "mainClass": "Factors",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
       "name": "Launch Product_sum",
       "request": "launch",
       "mainClass": "Product_sum",

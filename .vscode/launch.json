@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch NCR",
+      "request": "launch",
+      "mainClass": "NCR",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Palindrome",
+      "request": "launch",
+      "mainClass": "Palindrome",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Investment",
+      "request": "launch",
+      "mainClass": "Investment",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Hcf",
+      "request": "launch",
+      "mainClass": "Hcf",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
       "name": "Launch LCM",
       "request": "launch",
       "mainClass": "LCM",

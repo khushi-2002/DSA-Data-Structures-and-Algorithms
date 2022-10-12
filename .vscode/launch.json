@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Prime_range",
+      "request": "launch",
+      "mainClass": "Prime_range",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Triplets",
+      "request": "launch",
+      "mainClass": "Triplets",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
       "name": "Launch NCR",
       "request": "launch",
       "mainClass": "NCR",

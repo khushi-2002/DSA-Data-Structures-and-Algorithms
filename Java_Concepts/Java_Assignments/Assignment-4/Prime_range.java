@@ -12,6 +12,7 @@ public class Prime_range {
             }
         }
         sc.close();
+        
     }
 
     static boolean prime(int n){

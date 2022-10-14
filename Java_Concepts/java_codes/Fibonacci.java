@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-import javax.xml.validation.Schema;
 
 public class Fibonacci {
     public static void main(String[] args) {
@@ -14,6 +13,8 @@ public class Fibonacci {
            a=b;
            b=result;
         }
+
+        sc.close();
 
         System.out.println(result);
     }

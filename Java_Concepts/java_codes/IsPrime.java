@@ -5,6 +5,7 @@ public class IsPrime {
         Scanner sc = new Scanner(System.in);
         int n=sc.nextInt();
         System.out.println(isprime(n));
+        sc.close();
     }
 
     static boolean isprime(int n){

@@ -12,7 +12,7 @@ public class Array_objects {
 
 
         }
-
+sc.close();
         System.out.println(Arrays.toString(str));
     }
 }

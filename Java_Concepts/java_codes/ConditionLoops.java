@@ -12,7 +12,7 @@ public class ConditionLoops {
       else{
         System.out.println(b+" is greater");
       }
-
+      sc.close();
       // While loop
 
       int count =23;
@@ -25,6 +25,6 @@ public class ConditionLoops {
         System.out.println(count);
       }
 
-      sc.close();
+      
     }
 }

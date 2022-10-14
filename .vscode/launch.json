@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Max",
+      "request": "launch",
+      "mainClass": "Max",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Arraylist",
+      "request": "launch",
+      "mainClass": "Arraylist",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Arrays",
+      "request": "launch",
+      "mainClass": "Arrays",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
       "name": "Launch Prime_range",
       "request": "launch",
       "mainClass": "Prime_range",

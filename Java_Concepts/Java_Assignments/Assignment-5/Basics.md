@@ -10,4 +10,5 @@
 6. [Kids With the Greatest Number of Candies](https://leetcode.com/submissions/detail/822388176/)
 7. [Number of Good Pairs](https://leetcode.com/submissions/detail/822393841/)
 8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/submissions/detail/822401564/)
-9. []()
+9. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/submissions/)
+10. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/submissions/)

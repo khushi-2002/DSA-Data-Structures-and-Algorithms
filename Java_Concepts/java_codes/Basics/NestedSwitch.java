@@ -45,5 +45,7 @@ public class NestedSwitch {
             }
             default -> System.out.println("Enter correct EmpID");
         }
+        in.close();
+        
     }
 }

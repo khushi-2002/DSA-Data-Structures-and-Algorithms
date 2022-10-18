@@ -12,7 +12,8 @@ public class Swaping {
         swap(a, b);
         System.out.println(a+" "+b);
         String name = "Khushi Agarwal";
-        change_name("Khushi Agarwal");
+        change_name(name);
+        System.out.println(name);
         
     }
 

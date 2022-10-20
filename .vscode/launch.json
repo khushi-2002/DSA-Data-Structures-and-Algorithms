@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Patterns",
+      "request": "launch",
+      "mainClass": "Patterns",
+      "projectName": "STL_d0e74ad7"
+    },
+    {
+      "type": "java",
       "name": "Launch Max",
       "request": "launch",
       "mainClass": "Max",

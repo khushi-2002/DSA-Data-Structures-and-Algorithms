@@ -10,7 +10,7 @@ public class Patterns {
         sc.close();
     }
 
-
+    
     static public void pattern1(int n){
         for(int i=1;i<=n;i++){
             if(i==1 || i==n){

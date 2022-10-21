@@ -15,4 +15,4 @@
 11. [ Count Items Matching a Rule](https://leetcode.com/submissions/detail/823848053/)
 12. [Fliping image](https://leetcode.com/submissions/detail/823864662/)
 13. [Highest Altitude](https://leetcode.com/submissions/detail/826706918/)
-14. 
+14. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/submissions/detail/827127099/)

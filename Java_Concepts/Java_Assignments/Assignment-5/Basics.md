@@ -16,3 +16,5 @@
 12. [Fliping image](https://leetcode.com/submissions/detail/823864662/)
 13. [Highest Altitude](https://leetcode.com/submissions/detail/826706918/)
 14. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/submissions/detail/827127099/)
+15. [Find Numbers with Even Number of Digits](https://leetcode.com/submissions/detail/828669237/)
+16. [Number of Steps to Reduce a Number to Zero](https://leetcode.com/submissions/detail/828592499/)

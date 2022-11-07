@@ -28,7 +28,7 @@ When try to print elements via index which is more than the size then it shows a
 
 
 Example: 
-> int []arr = new int[5]
+> int []arr = new int[5]  
 > arr[5] // gives an error
 
 Printing of an array:

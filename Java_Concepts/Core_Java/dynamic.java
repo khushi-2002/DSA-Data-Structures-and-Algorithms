@@ -1,6 +1,7 @@
 public class dynamic {
     public static void main(String[] args) {
         A obj1 = new B();
+        
         obj1.show();
         obj1.fun();
         //obj1.fun2();

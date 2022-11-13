@@ -9,3 +9,4 @@ public class Checked_Exceptions {
         System.out.println(n);
     }
 }
+        

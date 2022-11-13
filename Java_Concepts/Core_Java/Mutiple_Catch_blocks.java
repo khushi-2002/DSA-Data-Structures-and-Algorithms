@@ -2,7 +2,7 @@ public class Mutiple_Catch_blocks{
   public static void main(String[] args) {
     
     try{
-        int []arr = null;
+        //int []arr = null;
         int i=90;
         int j=0;
         int k=i/j;

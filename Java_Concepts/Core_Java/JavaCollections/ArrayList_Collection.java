@@ -5,8 +5,8 @@ import java.util.Collection;
 
 import java.util.Iterator;
 
-public class ArrayList_Collection {
-    public static void main(String[] args) {
+public class ArrayList_Collection  {
+    public static void main(String[] args) throws Exception {
         Collection values = new ArrayList();
         values.add(23);
         values.add(67);

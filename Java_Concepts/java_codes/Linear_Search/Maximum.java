@@ -1,7 +1,7 @@
 public class Maximum {
     public static void main(String[] args) {
         int []arr = {23,56,12,34};
-        System.out.println();
+        System.out.println(maximum(arr));
 
     }
 
